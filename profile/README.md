@@ -4,9 +4,10 @@
     <img src="https://storage.googleapis.com/cdn-rahayoo/banner-rahayoo.png" alt="Rahayoo Logo">
 </p>
 
-<p align="center">
-    __How can technology effectively contribute to business growth and advancement by leveraging the management of stress levels and mood to increase employee productivity, thereby ensuring efficient and successful task completion?__
+<p align="center" style="font-size: 18px; font-weight: bold; color: purple;">
+    How can technology effectively contribute to business growth and advancement by leveraging the management of stress levels and mood to increase employee productivity, thereby ensuring efficient and successful task completion?
 </p>
+
 
 ## 🚀 About Us
 
